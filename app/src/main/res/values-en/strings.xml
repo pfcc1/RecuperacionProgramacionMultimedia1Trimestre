@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecoveringPM</string>
+    <string name="Sonido">sound</string>
+    <string name="retoandar">challenge to walk</string>
+    <string name="mostrartareas">show homework</string>
+    <string name="agregartareas">" add tasks"</string>
+    <string name="realizartarea">"do homework "</string>
+    <string name="borrartareas">"delete tasks "</string>
+    <string name="modojuego">"game mode "</string>
+    <string name="salir">"go out "</string>
+    <string name="accesomenu">menu access</string>
+    <string name="camara">camera</string>
+    <string name="galeria">gallery</string>
+    <string name="menuprincipal">"Main menu "</string>
+    <string name="titescucharsonido">"Sound "</string>
+    <string name="silenciarsonido">silence</string>
+    <string name="idtarea">Id homework</string>
+    <string name="selrealizartarea">Perform homework</string>
+    <string name="titrealizartarea">" Perform Homework"</string>
+    <string name="aceptartarea">to accept</string>
+    <string name="rnorealizadas">Not done</string>
+    <string name="rrealizadas">Made</string>
+    <string name="titmostrartareas">Show Homework</string>
+    <string name="borrartarea">"delete task "</string>
+    <string name="idtareaaborrar">"Id task to delete "</string>
+    <string name="titborrartareas">"Delete Tasks "</string>
+    <string name="descripciontarea">"Task description "</string>
+    <string name="agregartarea">"Add homework "</string>
+    <string name="titagregartarea">Add Homework</string>
+    <string name="titseleccionarimagen">Select image</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecuperandoPM</string>
+    <string name="Sonido">Sonido</string>
+    <string name="retoandar">Reto andar</string>
+    <string name="mostrartareas">Mostrar tareas</string>
+    <string name="agregartareas">Agregar Tareas</string>
+    <string name="realizartarea">Realizar tarea</string>
+    <string name="borrartareas">Borrar tarea</string>
+    <string name="modojuego">Modo juego</string>
+    <string name="salir">Salir</string>
+    <string name="camara">Cámara</string>
+    <string name="accesomenu">Acceso menu</string>
+    <string name="galeria">"Galería "</string>
+    <string name="menuprincipal">Menú principal</string>
+    <string name="titescucharsonido">Sonido</string>
+    <string name="silenciarsonido">Silenciar</string>
+    <string name="titrealizartarea">Realizar Tarea</string>
+    <string name="idtarea">Id Tarea</string>
+    <string name="selrealizartarea">Realizar tarea</string>
+    <string name="aceptartarea">Aceptar</string>
+    <string name="titmostrartareas">Mostrar tareas</string>
+    <string name="rnorealizadas">No realizadas</string>
+    <string name="rrealizadas">Realizadas</string>
+    <string name="titborrartareas">Borrar Tareas</string>
+    <string name="idtareaaborrar">Id tarea a borrar</string>
+    <string name="borrartarea">Borrar tarea</string>
+    <string name="titagregartarea">Agregar Tarea</string>
+    <string name="descripciontarea">Descripción tarea</string>
+    <string name="agregartarea">Agregar tarea</string>
+    <string name="titseleccionarimagen">Seleccionar imagen</string>
+</resources>
